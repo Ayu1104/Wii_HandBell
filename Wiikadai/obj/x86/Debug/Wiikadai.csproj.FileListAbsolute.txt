@@ -1,0 +1,10 @@
+C:\Users\1223138\Documents\Visual Studio 2010\Projects\Wiikadai\Wiikadai\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\1223138\Documents\Visual Studio 2010\Projects\Wiikadai\Wiikadai\obj\x86\Debug\Wiikadai.Properties.Resources.resources
+C:\Users\1223138\Documents\Visual Studio 2010\Projects\Wiikadai\Wiikadai\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\1223138\Documents\Visual Studio 2010\Projects\Wiikadai\Wiikadai\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\1223138\Documents\Visual Studio 2010\Projects\Wiikadai\Wiikadai\obj\x86\Debug\Wiikadai.Form1.resources
+C:\Users\1223138\Documents\Visual Studio 2010\Projects\Wiikadai\Wiikadai\bin\Debug\Wiikadai.exe
+C:\Users\1223138\Documents\Visual Studio 2010\Projects\Wiikadai\Wiikadai\bin\Debug\Wiikadai.pdb
+C:\Users\1223138\Documents\Visual Studio 2010\Projects\Wiikadai\Wiikadai\bin\Debug\WiimoteLib.dll
+C:\Users\1223138\Documents\Visual Studio 2010\Projects\Wiikadai\Wiikadai\obj\x86\Debug\Wiikadai.exe
+C:\Users\1223138\Documents\Visual Studio 2010\Projects\Wiikadai\Wiikadai\obj\x86\Debug\Wiikadai.pdb
